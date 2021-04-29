@@ -1,0 +1,21 @@
+
+body {
+    background-color: #fefefe;
+}
+.nav-style {
+    text-align: center;
+    background-color: rgb(0, 255, 213);
+}
+.main-header {
+    color:blue;
+
+}
+.articule  {
+    background-color: burlywood;
+}
+.header {
+    color: chartreuse;
+}
+.articule-header {
+    color:crimson;
+}
